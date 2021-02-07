@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/static/js/main.060282df.chunk.js",
+    "main.js.map": "/static/js/main.060282df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c46cf0fc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c46cf0fc.js.map",
+    "static/js/2.7243b0af.chunk.js": "/static/js/2.7243b0af.chunk.js",
+    "static/js/2.7243b0af.chunk.js.map": "/static/js/2.7243b0af.chunk.js.map",
+    "static/js/3.e1a87cd4.chunk.js": "/static/js/3.e1a87cd4.chunk.js",
+    "static/js/3.e1a87cd4.chunk.js.map": "/static/js/3.e1a87cd4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7243b0af.chunk.js.LICENSE.txt": "/static/js/2.7243b0af.chunk.js.LICENSE.txt",
+    "static/media/girl1.e7e1c625.jpg": "/static/media/girl1.e7e1c625.jpg",
+    "static/media/girl2.25e6d0cb.jpg": "/static/media/girl2.25e6d0cb.jpg",
+    "static/media/girl3.91e8c5f0.jpg": "/static/media/girl3.91e8c5f0.jpg",
+    "static/media/loginside.a53c8a4e.jpg": "/static/media/loginside.a53c8a4e.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/mainbg.876a80ba.jpg": "/static/media/mainbg.876a80ba.jpg",
+    "static/media/pricing.0ec1d09d.png": "/static/media/pricing.0ec1d09d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c46cf0fc.js",
+    "static/js/2.7243b0af.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.060282df.chunk.js"
+  ]
+}
